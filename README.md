@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:000d1a&height=200&section=header&text=Parthasarathy%20P%20V&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Quantum%20Computing%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:000d1a&height=200&section=header&text=Parthasarathy%20P%20V&fontSize=40&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AIML%20%7C%20Quantum%20Computing%20%7C%20Full-Stack%20Developer%20%7C%20ServiceNow%20Certified&descAlignY=58&descColor=aaaaaa" width="100%"/>
 
 <br/>
 
@@ -10,11 +10,14 @@
 
 <br/>
 
+
 ```
+
 ⚡ B.Tech CSE @ Christ (Deemed to be University) — AI/ML with Honors in Quantum Computing
-🌐 Building at the intersection of AIML, Quantum Computing, Deep Learning & Full-Stack
-🧠 Done several Certifications & Registered IP Copyright Holder
+🌐 Building at the intersection of Enterprise Cloud, AI/ML, Quantum Computing & Full-Stack
+🧠 ServiceNow Certified Developer (CAD) & Administrator (CSA) | Govt. Copyright Holder
 📍 Bangalore, Karnataka
+
 ```
 
 </div>
@@ -24,16 +27,40 @@
 ## <img src="https://img.shields.io/badge/🚀_FEATURED_PROJECTS-00d4ff?style=flat-square"/>
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
 
-<img src="https://img.shields.io/badge/⚛️_QUANTUM_PORTFOLIO-QUANTUM_/_AI-7b2fff?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤖_AI_PRODUCTIVITY_ASSISTANT-AI_/_NEXT.JS-ff4444?style=flat-square"/>
+
 
 ```
+
+AI Productivity Assistant with
+low-latency streaming and
+stress-detection algorithm.
+
+```
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-FF3621?style=flat-square)
+
+[![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+<img src="https://img.shields.io/badge/⚛️_QUANTUM_PORTFOLIO-QUANTUM_/_AI-7b2fff?style=flat-square"/>
+
+
+```
+
 Quantum optimization
 via QUBO + QAOA on
 real simulators.
+
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
@@ -47,10 +74,13 @@ real simulators.
 
 <img src="https://img.shields.io/badge/🏥_MEDICAL_LAB_BOOKING-FULL_STACK-00d4ff?style=flat-square"/>
 
+
 ```
+
 Full-stack booking system.
 Django + MySQL + REST.
 Real-time lab availability.
+
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
@@ -60,14 +90,19 @@ Real-time lab availability.
 [![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
 
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%">
 
 <img src="https://img.shields.io/badge/🎗️_BREAST_CANCER_DETECTION-QUANTUM_ML-ff4444?style=flat-square"/>
 
+
 ```
+
 QSVM quantum model.
 vs classical ML benchmarks.
 Quantum-enhanced diagnostics.
+
 ```
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat-square&logo=ibm&logoColor=white)
@@ -77,16 +112,17 @@ Quantum-enhanced diagnostics.
 [![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
 
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="33%">
 
 <img src="https://img.shields.io/badge/🤖_AI_CHATBOT-CLOUD_/_AI-ffb000?style=flat-square"/>
 
+
 ```
+
 IBM Cloud AI chatbot.
 Built during SkillUp.
 Conversational intelligence.
+
 ```
 
 ![IBM](https://img.shields.io/badge/IBM_Cloud-1261fe?style=flat-square&logo=ibm&logoColor=white)
@@ -98,27 +134,15 @@ Conversational intelligence.
 </td>
 <td align="center" valign="top" width="33%">
 
-<img src="https://img.shields.io/badge/🌐_WEB_INTERN-KELTRON-00ff41?style=flat-square&logoColor=000"/>
-
-```
-Medical appointment system.
-Secure backend architecture.
-RESTful real-time services.
-```
-
-![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
-![REST](https://img.shields.io/badge/RESTful_API-00ff41?style=flat-square)
-
-</td>
-<td align="center" valign="top" width="33%">
-
 <img src="https://img.shields.io/badge/🧬_QUANTUM_ALGORITHMS-RESEARCH-00cc99?style=flat-square"/>
 
+
 ```
+
 Quantum-enhanced ML.
 Circuit design research.
 Risk-return trade-off analysis.
+
 ```
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat-square&logo=ibm&logoColor=white)
@@ -130,35 +154,39 @@ Risk-return trade-off analysis.
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
 
 ## <img src="https://img.shields.io/badge/🔧_TECH_STACK-00d4ff?style=flat-square"/>
+
 <div align="center">
 <br/>
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758f?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 
-**AI / ML / Quantum**
+**Enterprise, Cloud & AI/ML**
 
+![ServiceNow](https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-1a1a1a?style=for-the-badge)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=for-the-badge&logo=ibm&logoColor=white)
-![MLP](https://img.shields.io/badge/MLP_Regression-7b2fff?style=for-the-badge)
-![Neural Nets](https://img.shields.io/badge/Neural_Networks-ff4444?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-1a1a1a?style=for-the-badge)
 
 **Web & Frameworks**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-00ff41?style=for-the-badge)
@@ -168,9 +196,9 @@ Risk-return trade-off analysis.
 ![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white)
 
 </div>
 
@@ -180,15 +208,27 @@ Risk-return trade-off analysis.
 
 <div align="center">
 
+
 ```
+
+╔══════════════════════════════════════════════════════════════════╗
+║  💼  AI Engineer Intern  —  Proddy Tech                          ║
+║  📅  April 2026 – May 2026  |  📍 Remote                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  → Architected AI Productivity Assistant (Next.js, TS, Vercel AI)║
+║  → Engineered stress-detection algorithm with Convex backend     ║
+║  → Deployed assistant live onto production corporate website     ║
+╚══════════════════════════════════════════════════════════════════╝
+
 ╔══════════════════════════════════════════════════════════════════╗
 ║  💼  Web Development Intern  —  Keltron Technology Ernakulam     ║
-║  📅  April 2025 – May 2025  |  📍  Kochi, KL                    ║
+║  📅  April 2025 – May 2025  |  📍 Kochi, KL                      ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  → Designed full-stack Medical Lab Booking System (Django+MySQL)  ║
+║  → Designed full-stack Medical Lab Booking System (Django+MySQL) ║
 ║  → Built secure backend for sensitive medical data management     ║
-║  → Developed RESTful API for real-time lab availability           ║
+║  → Developed RESTful API for real-time lab availability          ║
 ╚══════════════════════════════════════════════════════════════════╝
+
 ```
 
 </div>
@@ -201,13 +241,14 @@ Risk-return trade-off analysis.
 
 | 🏅 Award / Cert | 🏢 Issuer | 📝 Details |
 |---|---|---|
-| **Copyright (L-148670/2024)** | Govt. of India / Copyright Office | Registered IP for original software application |
-| **Cloud & AI** | IBM (SkillUp) | Build Your Own Chatbot |
-| **AI Fundamentals** | IBM | Artificial Intelligence Fundamentals |
-| **Machine Learning** | SkillUp | Machine Learning Certification |
-| **CCNA: Intro to Networks** | Cisco | Networking Fundamentals |
-| **OS Fundamentals** | Scaler Academy | Operating System Concepts |
-| **Leadership & Team Effectiveness** | NPTEL – IIT Madras / SWAYAM | Professional Development |
+| **Govt. Copyright (L-148670/2024)** | Govt. of India / Copyright Office | INTELLIVEND - A NEW ERA OF VENDING |
+| **Certified Application Developer (CAD)** | ServiceNow | Custom app design, JavaScript, & Glide APIs |
+| **Certified System Administrator (CSA)** | ServiceNow | Platform administration, security, & workflows |
+| **AWS Academy Graduate** | Amazon Web Services (AWS) | Cloud Foundations (Architecture & Security) |
+| **AI Fundamentals** | IBM / Cisco | Artificial Intelligence Fundamentals |
+| **Build Your Own Chatbot** | IBM (Cognitive Class) | Cloud & AI Conversational Intelligence |
+| **Networking Basics** | Cisco Networking Academy | Networking Fundamentals |
+| **Leadership & Team Effectiveness** | NPTEL – IIT Madras / SWAYAM | Professional Development & Team Leadership |
 
 </div>
 
@@ -239,9 +280,12 @@ Risk-return trade-off analysis.
 
 <div align="center">
 
+
 ```
- ·🧠  AIML & Deep Learning  · ⚛️  Quantum Computing  · 🌐  Full-Stack Dev
+
+·🧠 AIML & Deep Learning  · ⚛️ Quantum Computing  · ☁️ ServiceNow & AWS  · 🌐 Full-Stack Dev
 "Leveraging Quantum + AI to build what was once impossible."
+
 ```
 
 <br/>
