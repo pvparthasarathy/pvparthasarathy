@@ -32,16 +32,28 @@
 <tr>
 <td align="center" valign="top" width="33%">
 
+<img src="https://img.shields.io/badge/🌾_FEDMILLET-FEDERATED_AI-00ff41?style=flat-square"/>
+
+Federated cross-domain transfer
+learning for millet leaf disease
+detection with Grad-CAM & XAI.
+
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Federated](https://img.shields.io/badge/FedAvg_/_XAI-00ff41?style=flat-square)
+
+[![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
+
+</td>
+<td align="center" valign="top" width="33%">
+
 <img src="https://img.shields.io/badge/🤖_AI_PRODUCTIVITY_ASSISTANT-AI_/_NEXT.JS-ff4444?style=flat-square"/>
-
-
-```
 
 AI Productivity Assistant with
 low-latency streaming and
 stress-detection algorithm.
 
-```
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -54,14 +66,10 @@ stress-detection algorithm.
 
 <img src="https://img.shields.io/badge/⚛️_QUANTUM_PORTFOLIO-QUANTUM_/_AI-7b2fff?style=flat-square"/>
 
-
-```
-
 Quantum optimization
 via QUBO + QAOA on
 real simulators.
 
-```
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat-square&logo=ibm&logoColor=white)
@@ -70,18 +78,16 @@ real simulators.
 [![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
 
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%">
 
 <img src="https://img.shields.io/badge/🏥_MEDICAL_LAB_BOOKING-FULL_STACK-00d4ff?style=flat-square"/>
-
-
-```
 
 Full-stack booking system.
 Django + MySQL + REST.
 Real-time lab availability.
 
-```
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=flat-square&logo=django&logoColor=white)
@@ -90,20 +96,14 @@ Real-time lab availability.
 [![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
 
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="33%">
 
 <img src="https://img.shields.io/badge/🎗️_BREAST_CANCER_DETECTION-QUANTUM_ML-ff4444?style=flat-square"/>
-
-
-```
 
 QSVM quantum model.
 vs classical ML benchmarks.
 Quantum-enhanced diagnostics.
 
-```
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat-square&logo=ibm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
@@ -116,14 +116,10 @@ Quantum-enhanced diagnostics.
 
 <img src="https://img.shields.io/badge/🤖_AI_CHATBOT-CLOUD_/_AI-ffb000?style=flat-square"/>
 
-
-```
-
 IBM Cloud AI chatbot.
 Built during SkillUp.
 Conversational intelligence.
 
-```
 
 ![IBM](https://img.shields.io/badge/IBM_Cloud-1261fe?style=flat-square&logo=ibm&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-ffb000?style=flat-square)
@@ -132,18 +128,16 @@ Conversational intelligence.
 [![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
 
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%">
 
 <img src="https://img.shields.io/badge/🧬_QUANTUM_ALGORITHMS-RESEARCH-00cc99?style=flat-square"/>
-
-
-```
 
 Quantum-enhanced ML.
 Circuit design research.
 Risk-return trade-off analysis.
 
-```
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat-square&logo=ibm&logoColor=white)
 ![Research](https://img.shields.io/badge/Research-00cc99?style=flat-square)
@@ -152,6 +146,8 @@ Risk-return trade-off analysis.
 [![SRC](https://img.shields.io/badge/SOURCE-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pvparthasarathy)
 
 </td>
+<td align="center" valign="top" width="33%"></td>
+<td align="center" valign="top" width="33%"></td>
 </tr>
 </table>
 
@@ -179,15 +175,20 @@ Risk-return trade-off analysis.
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=for-the-badge&logo=ibm&logoColor=white)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-00ff41?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Grad--CAM_/_XAI-7b2fff?style=for-the-badge)
 ![NLTK](https://img.shields.io/badge/NLTK-1a1a1a?style=for-the-badge)
 
 **Web & Frameworks**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/RESTful_API-00ff41?style=for-the-badge)
 
@@ -197,12 +198,12 @@ Risk-return trade-off analysis.
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
----
 
 ## <img src="https://img.shields.io/badge/📋_EXPERIENCE-ffb000?style=flat-square"/>
 
@@ -297,5 +298,3 @@ Risk-return trade-off analysis.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,100:0d0d0d&height=100&section=footer" width="100%"/>
-
-</div>
